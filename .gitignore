@@ -1,0 +1,7 @@
+cache/
+out/
+.vscode/
+broadcast/
+*.code-workspace
+.env
+.notes
